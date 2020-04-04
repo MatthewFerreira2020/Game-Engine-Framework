@@ -1,0 +1,1 @@
+[Info]: OpenGL version4.6.0 NVIDIA 399.07 in file: c:\gamedev\_projects\reengine\reengine\engine\core\window.cpp on line: 44

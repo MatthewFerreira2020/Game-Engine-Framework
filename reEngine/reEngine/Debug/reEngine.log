@@ -1,0 +1,152 @@
+﻿  CollisionHandler.cpp
+  CollisionDetection.cpp
+  Camera.cpp
+  Debug.cpp
+  Engine.cpp
+  GameObject.cpp
+  EventListener.cpp
+  Game1.cpp
+  LightSource.cpp
+  LoadObjModel.cpp
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(54,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(55,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(56,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(57,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(58,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(59,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(64,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(66,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(68,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(71,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(74,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(77,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(104,25): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(105,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(106,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(107,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(108,33): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(109,33): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(110,31): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(111,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(112,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\LoadObjModel.cpp(146,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Window.cpp
+  Timer.cpp
+  Mesh.cpp
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\Mesh.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+  Model.cpp
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Rendering\3D\Model.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+  ShaderHandler.cpp
+  TextureHandler.cpp
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Graphics\TextureHandler.cpp(48,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Graphics\TextureHandler.cpp(49,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MouseEventListener.cpp
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Events\MouseEventListener.cpp(76,44): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SceneGraph.cpp
+  MaterialHandler.cpp
+  Generating Code...
+  Compiling...
+  MaterialLoader.cpp
+C:\GameDev\_Projects\reEngine\reEngine\Engine\FX\MaterialLoader.cpp(26,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\FX\MaterialLoader.cpp(33,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OctSpatialPartition.cpp
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Core\OctSpatialPartition.cpp(40,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Core\OctSpatialPartition.cpp(41,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Core\OctSpatialPartition.cpp(43,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Core\OctSpatialPartition.cpp(45,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Core\OctSpatialPartition.cpp(47,133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Core\OctSpatialPartition.cpp(50,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Core\OctSpatialPartition.cpp(52,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Core\OctSpatialPartition.cpp(54,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GameDev\_Projects\reEngine\reEngine\Engine\Core\OctSpatialPartition.cpp(56,133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  reEngine.vcxproj -> C:\GameDev\_Projects\reEngine\Debug\reEngine.exe

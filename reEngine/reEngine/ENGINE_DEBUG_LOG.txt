@@ -1,0 +1,2 @@
+[INFO] OpenGL version: 4.6.0 NVIDIA 445.75 in file: CORE/Window.cpp on line: 50
+[INFO] Everything Initialized fine in engine class in file: CORE/Engine.cpp on line: 41
